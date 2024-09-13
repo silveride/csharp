@@ -1,0 +1,14 @@
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.deps.json
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.runtimeconfig.json
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.dll
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfo.cs
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.dll
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/refint/AboutMyEnvironment.dll
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.genruntimeconfig.cache
+/Users/manu/Documents/csharp/ch01/AboutMyEnvironment/obj/Debug/net8.0/ref/AboutMyEnvironment.dll

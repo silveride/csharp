@@ -1,0 +1,14 @@
+/Users/manu/Documents/csharp/ch01/HelloCS/bin/Debug/net8.0/HelloCS
+/Users/manu/Documents/csharp/ch01/HelloCS/bin/Debug/net8.0/HelloCS.deps.json
+/Users/manu/Documents/csharp/ch01/HelloCS/bin/Debug/net8.0/HelloCS.runtimeconfig.json
+/Users/manu/Documents/csharp/ch01/HelloCS/bin/Debug/net8.0/HelloCS.dll
+/Users/manu/Documents/csharp/ch01/HelloCS/bin/Debug/net8.0/HelloCS.pdb
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfoInputs.cache
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfo.cs
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/HelloCS.dll
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/refint/HelloCS.dll
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/HelloCS.pdb
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/HelloCS.genruntimeconfig.cache
+/Users/manu/Documents/csharp/ch01/HelloCS/obj/Debug/net8.0/ref/HelloCS.dll
